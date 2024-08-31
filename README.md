@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GbollySckoky
 - 👀 I’m interested in working on live projects
-- 🌱 I’m currently learning TypeScript and Next.js
+- 🌱 I’m currently learning TypeScript 
 - 💞️ I’m looking to collaborate on projects with backends developers and product designers
 - 📫 How to reach me IG:@sckokyy, X:@sckokyy
 - 😄 Pronouns: he/him
