@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Dart, Flutter**
 
-- 💬 Ask me about **Javascript, Typescript, react and Next.js**
+- 💬 Ask me about **Javascript, Typescript, react, React Native and Next.js**
 
 - 📫 How to reach me **gbolahancoker99@gmail.com**
 
@@ -21,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gbollysckoky&show_icons=true&locale=en&layout=compact" alt="gbollysckoky" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gbollysckoky&show_icons=true&locale=en" alt="gbollysckoky" /></p>
+
