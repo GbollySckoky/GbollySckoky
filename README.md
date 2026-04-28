@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Dart, Flutter**
 
-- 💬 Ask me about **Javascript, Typescript, react, React Native and Next.js**
+- 💬 Ask me about **Javascript, Typescript, react, React Native, Next.js, Express.js**
 
 - 📫 How to reach me **gbolahandevmail@gmail.com**
 
